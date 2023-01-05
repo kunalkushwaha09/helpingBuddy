@@ -1,0 +1,14 @@
+#target{
+  width: 100px;
+  height:100px;
+  background-color:red;
+}
+
+@keyframes fadeMe {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
